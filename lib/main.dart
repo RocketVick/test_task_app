@@ -6,7 +6,7 @@ import 'package:test_task_app/screens/main_screen.dart';
 import 'package:flutter/rendering.dart';
 
 void main() {
-  //debugRepaintRainbowEnabled = true;
+  debugRepaintRainbowEnabled = true;
   runApp(const MyApp());
 }
 
